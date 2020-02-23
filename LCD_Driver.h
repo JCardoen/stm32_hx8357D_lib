@@ -1,19 +1,3 @@
-/*
-Library:					SPI LCD - LCD
-Written by:				Mohamed Yaqoob (MYaqoobEmbedded YouTube Channel)
-Date Written:			09/12/2018
-Last modified:		-/-
-Description:			This is an STM32 device driver library for the LCD SPI LCD display, using STM HAL libraries
-										
-* Copyright (C) 2018 - M. Yaqoob
-   This is a free software under the GNU license, you can redistribute it and/or modify it under the terms
-   of the GNU General Public Licenseversion 3 as published by the Free Software Foundation.
-	
-   This software library is shared with puplic for educational purposes, without WARRANTY and Author is not liable for any damages caused directly
-   or indirectly by this software, read more about this on the GNU General Public License.
-*/
-
-//List of includes
 #include <stdbool.h>
 //** CHANGE BASED ON STM32 CHIP F4/F7/F1...**//
 #include "stm32f1xx_hal.h"
